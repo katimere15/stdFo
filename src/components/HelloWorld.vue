@@ -44,7 +44,7 @@ const handleClick = async () => {
       v-model="id"
     />
     <input
-      type="text"
+      type="password"
       placeholder="Password"
       v-model="pw"
     />
